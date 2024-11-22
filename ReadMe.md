@@ -131,6 +131,22 @@ The customers with the highest salaries
 
 # Conclusion and Recommendations
 
+- Customer acquisition should be improved on in Spain/Germany while consolidating efforts in France. We can replicate customer acquisition efforts in France in Spain/Germany.
 
+- Our customer profile is 18% of young adult indicating that our banks is more suited for youths (30 - 60). We should find ways to attract young adults (18-20)yrs using 
 
+- We have 10% more males but more females have churned, indicating that we need to investigate why customers that are females are churning. Efforts should be made to address this churn.
 
+- There is a good probability (64%) that customers without credit card churn. Encouraging customers to obtain credit cards can address this.
+
+- 16% of new customers churn. There should be efforts to reduce this number to less than 2% by giving them incentives and addressing challenges they may be facing.
+
+- The customers with high account balances/salaries should be further investigated to ensure that they are fully utilizing the bank's products to the fullest and giving special attention
+
+- We have more premium customers in France. We should replicate efforts in Germany/Spain to attract premium customers in Germany/Spain.
+
+- It has been found that very few customers tend to use more product offerings including those that have stayed longer in the bank. Efforts should be made to encourage customers to use more products.
+
+- More customers (32%) have exited from Germany indicating that most of the issue leading to churn are coming from there. Efforts should be made to investigate why this is happening. 
+
+- 
