@@ -133,9 +133,9 @@ The customers with the highest salaries
 
 - Customer acquisition should be improved on in Spain/Germany while consolidating efforts in France. We can replicate customer acquisition efforts in France in Spain/Germany.
 
-- Our customer profile is 18% of young adult indicating that our banks is more suited for youths (30 - 60). We should find ways to attract young adults (18-20)yrs using 
+- Our customer profile is 18% of young adult indicating that our banks is more suited for youths (30 - 60). We should find ways to attract young adults (18-20)yrs using incentives
 
-- We have 10% more males but more females have churned, indicating that we need to investigate why customers that are females are churning. Efforts should be made to address this churn.
+- The bank has 10% more males but more females have churned, indicating that we need to investigate why customers that are females are churning. Chances are our female customers aren't getting what they want from the services we offer. 
 
 - There is a good probability (64%) that customers without credit card churn. Encouraging customers to obtain credit cards can address this.
 
